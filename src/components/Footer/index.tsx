@@ -52,8 +52,8 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
             </li>
             <li>
               {" "}
-              <a href="tel:+551199999999" target="_blank" rel="external">
-                +55 11 9999-9999
+              <a href="tel:+5213334567892" target="_blank" rel="external">
+                +52 1 333 456 7892
               </a>{" "}
             </li>
             <li>
@@ -105,8 +105,8 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
         </Column>
       </Content>
       <Copyright>
-        <span>Developed by Abdullah Iqbal.</span>
-        <p>© 2023 Little Lemon. All rights reserved.</p>
+        <span>Developed by Alberto Lopez.</span>
+        <p>© 2024 Little Lemon. All rights reserved.</p>
       </Copyright>
     </Container>
   );
