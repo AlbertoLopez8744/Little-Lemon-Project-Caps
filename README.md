@@ -9,7 +9,7 @@ The little lemon app is the capstone project for Meta's Front-End Developer Cert
   Developed by <a href="https://github.com/AlbertoLopez8744">Alberto Lopez</a>
 </p>
 
-<br>
+<br/>
 
 <p align="center">
 This repository was migrated from other personal account, because an issue was happen there.
